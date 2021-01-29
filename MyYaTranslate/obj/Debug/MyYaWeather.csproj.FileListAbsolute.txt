@@ -1,0 +1,15 @@
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\bin\Debug\MyYaTranslate.exe.config
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\bin\Debug\MyYaTranslate.exe
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\bin\Debug\MyYaTranslate.pdb
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\bin\Debug\Fizzler.dll
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\bin\Debug\Svg.dll
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\bin\Debug\Svg.xml
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\obj\Debug\MyYaTranslate.FormMain.resources
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\obj\Debug\MyYaTranslate.Properties.Resources.resources
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\obj\Debug\MyYaWeather.csproj.GenerateResource.Cache
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\obj\Debug\MyYaTranslate.exe
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\obj\Debug\MyYaTranslate.pdb
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\obj\Debug\MyYaWeather.csprojResolveAssemblyReference.cache

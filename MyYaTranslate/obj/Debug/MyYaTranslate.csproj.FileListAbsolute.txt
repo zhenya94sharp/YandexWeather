@@ -1,0 +1,9 @@
+c:\users\g580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\bin\Debug\MyYaTranslate.exe.config
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\bin\Debug\MyYaTranslate.exe
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\bin\Debug\MyYaTranslate.pdb
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\obj\Debug\MyYaTranslate.csprojResolveAssemblyReference.cache
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\obj\Debug\MyYaTranslate.FormMain.resources
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\obj\Debug\MyYaTranslate.Properties.Resources.resources
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\obj\Debug\MyYaTranslate.csproj.GenerateResource.Cache
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\obj\Debug\MyYaTranslate.exe
+C:\Users\G580\documents\visual studio 2015\Projects\MyYaTranslate\MyYaTranslate\obj\Debug\MyYaTranslate.pdb
